@@ -1,13 +1,11 @@
-## Coding Interview for Ministry Pass
+## Instructions
 
-#### Get the app running
+There are TWO problems to solve within the `functions.js` file:
 
-1. `git clone <repo>`
-2. `cd coding-interview`
-3. `yarn install`
-4. `yarn check` to get the tests running.
+1. Array Sum
+2. Super Digits
 
-There are TWO problems to solve within the `functions.js` file
+You will need to have every test passing in the `index.test.js` file for a problem to be complete. Feel free to leave any comments in code that you need.
 
 ### Problem 1
 
