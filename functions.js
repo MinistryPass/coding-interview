@@ -3,5 +3,5 @@ export function sum(numberArray) {
 }
 
 export function superDigit(n, k) {
-  // Write your code here
+  // Your code goes here
 }
