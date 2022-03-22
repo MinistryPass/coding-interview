@@ -5,7 +5,7 @@
 1. `git clone <repo>`
 2. `cd coding-interview`
 3. `yarn install`
-4. `yarn check` to get the tests running.
+4. `yarn test` to get the tests running.
 5. Checkout the `INSTRUCTIONS.md` file for update instructions.
 
 ## HELP
